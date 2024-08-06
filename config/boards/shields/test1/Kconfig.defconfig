@@ -3,4 +3,7 @@ if SHIELD_TEST1
 config ZMK_KEYBOARD_NAME
     default "test1"
 
+config BT_DEVICE_NAME
+    default "test1_BT"
+
 endif
